@@ -1,9 +1,9 @@
 This file will act as project drawings stating the top architecture for the project.
-Author: Johan Tholén 
+Author: Johan TholÃ©n 
 
 Guidelines
 ------------------
 
 1. Data and functionality shall always be separated.
-
+2. We never work on saturdays. On saturdays we drink beer.
 3. Avoid distrubution of functionality regarding similar things between modules.
