@@ -1,2 +1,7 @@
 This file will act as project drawings stating the top architecture for the project.
 Author: Johan Tholén 
+
+Guidelines
+------------------
+
+1. Data and functionality shall always be separated.
