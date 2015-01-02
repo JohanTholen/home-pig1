@@ -5,4 +5,5 @@ Guidelines
 ------------------
 
 1. Data and functionality shall always be separated.
-2. Avoid distrubution of functionality regarding similar things between modules.
+
+3. Avoid distrubution of functionality regarding similar things between modules.
